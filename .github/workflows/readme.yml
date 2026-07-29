@@ -1,9 +1,8 @@
 name: Update README
 on:
   schedule:
-    # Runs daily at 05:00 UTC
-    - cron: '0 5 * * *'
-  workflow_dispatch:
+    # Schedule this workflow to run at regular intervals
+    - cron: '0 5* * * *'
 
 jobs:
   build:
@@ -20,20 +19,13 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Generate stats card
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node scripts/generate-stats-card.js
-
-      - name: Generate weekly coding rhythm chart
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node scripts/generate-weekly-chart.js
-
+      - name: Generate GitHub Stats
+        run: node index.js
+    
       - name: Commit and Push
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
-          git add assets/stats-card.svg assets/weekly-chart.svg
-          git diff --cached --quiet || git commit -m "Update generated cards [skip ci]"
+          git add README.md
+          git commit -m "Update README with GitHub Stats [skip ci]"
           git push
