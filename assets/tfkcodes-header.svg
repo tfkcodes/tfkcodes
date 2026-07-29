@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">TFK Codes — Product Engineer and Founder</title>
+  <desc id="desc">Minimal dark blue developer profile banner.</desc>
+  <rect width="1280" height="360" rx="26" fill="#07101d"/>
+  <rect x="1" y="1" width="1278" height="358" rx="25" fill="none" stroke="#18304c"/>
+  <rect x="52" y="48" width="5" height="264" rx="2.5" fill="#1683ff"/>
+
+  <g transform="translate(92 78)">
+    <path d="M44 0 0 44l44 44" fill="none" stroke="#1683ff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m116 0 44 44-44 44" fill="none" stroke="#1683ff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M94 4 66 84" fill="none" stroke="#eef5ff" stroke-width="13" stroke-linecap="round"/>
+  </g>
+
+  <text x="292" y="126" fill="#f7f9fc" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">TFK Codes</text>
+  <text x="294" y="172" fill="#1683ff" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="2">PRODUCT ENGINEER &amp; FOUNDER</text>
+  <text x="294" y="218" fill="#a9b6c8" font-family="Arial, Helvetica, sans-serif" font-size="22">Building practical digital products for FinTech, AgriTech,</text>
+  <text x="294" y="250" fill="#a9b6c8" font-family="Arial, Helvetica, sans-serif" font-size="22">business automation and developer tooling.</text>
+
+  <g transform="translate(932 62)">
+    <rect width="272" height="198" rx="18" fill="#0a1626" stroke="#1b385a"/>
+    <circle cx="26" cy="25" r="5" fill="#31445d"/><circle cx="44" cy="25" r="5" fill="#31445d"/><circle cx="62" cy="25" r="5" fill="#31445d"/>
+    <g stroke-linecap="round" stroke-width="7">
+      <path d="M28 62h80" stroke="#1683ff"/><path d="M126 62h82" stroke="#2b4868"/>
+      <path d="M28 88h42" stroke="#2b4868"/><path d="M86 88h104" stroke="#1683ff"/>
+      <path d="M28 114h110" stroke="#1683ff"/><path d="M154 114h62" stroke="#2b4868"/>
+      <path d="M28 140h58" stroke="#2b4868"/><path d="M104 140h80" stroke="#1683ff"/>
+      <path d="M28 166h94" stroke="#1683ff"/><path d="M138 166h48" stroke="#2b4868"/>
+    </g>
+  </g>
+
+  <text x="932" y="302" fill="#f7f9fc" font-family="Arial, Helvetica, sans-serif" font-size="18">Code. Ship. </text>
+  <text x="1032" y="302" fill="#1683ff" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Impact.</text>
+  <text x="1092" y="302" fill="#f7f9fc" font-family="Arial, Helvetica, sans-serif" font-size="18"> Repeat.</text>
+</svg>
