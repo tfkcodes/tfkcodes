@@ -3,11 +3,7 @@
 <h1 align="center">Hi 👋, I'm Luciano Jackson(tfkcodes)</h1>
 <h3 align="center">A passionate Software Developer from Tanzania</h3>
 
-<p>
-  <img
-    align="left"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tfkcodes&theme=github_dark"
-    alt="Top stack"
-  />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tfkcodes&theme=github_dark" alt="Top stack" />
+  <img src="https://streak-stats.demolab.com/?user=tfkcodes&" alt="tfkcodes" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tfkcodes&" alt="tfkcodes" /></p>
