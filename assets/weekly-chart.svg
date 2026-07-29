@@ -1,0 +1,67 @@
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0E17"/>
+      <stop offset="100%" stop-color="#111A2E"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#58A6FF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .tag      { font: 700 11px 'Segoe UI', Arial, sans-serif; fill: #58A6FF; letter-spacing: 2.5px; }
+      .handle   { font: 500 12px 'Segoe UI', Arial, sans-serif; fill: #4A5578; }
+      .label    { font: 600 11px 'Segoe UI', Arial, sans-serif; fill: #7C8AAD; letter-spacing: 1px; }
+      .count    { font: 700 13px 'Segoe UI', Arial, sans-serif; fill: #F3F6FC; }
+      .langLabel{ font: 600 10px 'Segoe UI', Arial, sans-serif; }
+      .foot     { font: 500 11px 'Segoe UI', Arial, sans-serif; fill: #9AA6C4; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="318" rx="18" fill="url(#bg)" stroke="#1E2740" stroke-width="1"/>
+  <rect x="1" y="1" width="898" height="3" rx="1.5" fill="url(#glow)"/>
+
+  <text x="36" y="42" class="tag">WEEKLY CODING RHYTHM</text>
+  <text x="864" y="42" text-anchor="end" class="handle">@tfkcodes</text>
+  <line x1="36" y1="58" x2="864" y2="58" stroke="#1E2740" stroke-width="1"/>
+
+  <line x1="60" y1="250" x2="840" y2="250" stroke="#1E2740" stroke-width="1"/>
+
+  
+      <rect x="93.71428571428572" y="199.0909090909091" width="44" height="50.909090909090914" rx="6" fill="#1B2A4A" stroke="#3B82F6" stroke-opacity="0.5"/>
+      <text x="115.71428571428572" y="189.0909090909091" text-anchor="middle" class="count">8</text>
+      <rect x="205.14285714285717" y="160.9090909090909" width="44" height="89.0909090909091" rx="6" fill="#1B2A4A" stroke="#3B82F6" stroke-opacity="0.5"/>
+      <text x="227.14285714285717" y="150.9090909090909" text-anchor="middle" class="count">14</text>
+      <rect x="316.5714285714286" y="122.72727272727273" width="44" height="127.27272727272727" rx="6" fill="#1B2A4A" stroke="#3B82F6" stroke-opacity="0.5"/>
+      <text x="338.5714285714286" y="112.72727272727273" text-anchor="middle" class="count">20</text>
+      <rect x="428" y="141.8181818181818" width="44" height="108.18181818181817" rx="6" fill="#1B2A4A" stroke="#3B82F6" stroke-opacity="0.5"/>
+      <text x="450" y="131.8181818181818" text-anchor="middle" class="count">17</text>
+      <rect x="539.4285714285714" y="110" width="44" height="140" rx="6" fill="#1B2A4A" stroke="#3B82F6" stroke-opacity="0.5"/>
+      <text x="561.4285714285714" y="100" text-anchor="middle" class="count">22</text>
+      <rect x="650.8571428571428" y="211.8181818181818" width="44" height="38.18181818181818" rx="6" fill="#1B2A4A" stroke="#3B82F6" stroke-opacity="0.5"/>
+      <text x="672.8571428571428" y="201.8181818181818" text-anchor="middle" class="count">6</text>
+      <rect x="762.2857142857142" y="224.54545454545453" width="44" height="25.454545454545457" rx="6" fill="#1B2A4A" stroke="#3B82F6" stroke-opacity="0.5"/>
+      <text x="784.2857142857142" y="214.54545454545453" text-anchor="middle" class="count">4</text>
+  <path d="M 115.71428571428572 146 L 227.14285714285717 153 L 338.5714285714286 132 L 450 160 L 561.4285714285714 139 L 672.8571428571428 146 L 784.2857142857142 167" fill="none" stroke="#FBBF74" stroke-width="2" stroke-linecap="round"/>
+  
+      <circle cx="115.71428571428572" cy="146" r="5" fill="#58A6FF" stroke="#0A0E17" stroke-width="2"/>
+      <text x="115.71428571428572" y="132" text-anchor="middle" class="langLabel" fill="#58A6FF">Dart 60%</text>
+      <circle cx="227.14285714285717" cy="153" r="5" fill="#3B82F6" stroke="#0A0E17" stroke-width="2"/>
+      <text x="227.14285714285717" y="139" text-anchor="middle" class="langLabel" fill="#3B82F6">TypeScript 55%</text>
+      <circle cx="338.5714285714286" cy="132" r="5" fill="#58A6FF" stroke="#0A0E17" stroke-width="2"/>
+      <text x="338.5714285714286" y="118" text-anchor="middle" class="langLabel" fill="#58A6FF">Dart 70%</text>
+      <circle cx="450" cy="160" r="5" fill="#A78BFA" stroke="#0A0E17" stroke-width="2"/>
+      <text x="450" y="146" text-anchor="middle" class="langLabel" fill="#A78BFA">PHP 50%</text>
+      <circle cx="561.4285714285714" cy="139" r="5" fill="#58A6FF" stroke="#0A0E17" stroke-width="2"/>
+      <text x="561.4285714285714" y="125" text-anchor="middle" class="langLabel" fill="#58A6FF">Dart 65%</text>
+      <circle cx="672.8571428571428" cy="146" r="5" fill="#3B82F6" stroke="#0A0E17" stroke-width="2"/>
+      <text x="672.8571428571428" y="132" text-anchor="middle" class="langLabel" fill="#3B82F6">TypeScript 60%</text>
+      <circle cx="784.2857142857142" cy="167" r="5" fill="#A78BFA" stroke="#0A0E17" stroke-width="2"/>
+      <text x="784.2857142857142" y="153" text-anchor="middle" class="langLabel" fill="#A78BFA">PHP 45%</text>
+  <text x="115.71428571428572" y="272" text-anchor="middle" class="label">MON</text><text x="227.14285714285717" y="272" text-anchor="middle" class="label">TUE</text><text x="338.5714285714286" y="272" text-anchor="middle" class="label">WED</text><text x="450" y="272" text-anchor="middle" class="label">THU</text><text x="561.4285714285714" y="272" text-anchor="middle" class="label">FRI</text><text x="672.8571428571428" y="272" text-anchor="middle" class="label">SAT</text><text x="784.2857142857142" y="272" text-anchor="middle" class="label">SUN</text>
+
+  <line x1="36" y1="284" x2="864" y2="284" stroke="#1E2740" stroke-width="1"/>
+  <circle cx="60" cy="298" r="4" fill="#58A6FF"/><text x="70" y="302" class="foot">Dart</text><circle cx="180" cy="298" r="4" fill="#3B82F6"/><text x="190" y="302" class="foot">TypeScript</text><circle cx="300" cy="298" r="4" fill="#A78BFA"/><text x="310" y="302" class="foot">PHP</text>
+  <text x="864" y="302" text-anchor="end" class="foot">bars = commits · line = top language share</text>
+</svg>

@@ -113,7 +113,7 @@ CLI tool to speed up Flutter project development.<br/><br/>
 ### 🕒&nbsp; Weekly Coding Rhythm
 
 <p align="center">
-  <img align="center" src="./assets/weekly-chart.svg" alt="Weekly coding rhythm: commits per weekday with top language share" width="100%" />
+  <img align="center" src="assets/weekly-chart.svg" alt="Weekly coding rhythm: commits per weekday with top language share" width="100%" />
 </p>
 
 <br/>
