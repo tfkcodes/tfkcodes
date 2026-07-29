@@ -4,6 +4,6 @@
 <h3 align="center">A passionate Software Developer from Tanzania</h3>
 
 <p align="center">
-  <img width="49%" height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tfkcodes&theme=github_dark" alt="Top stack" />
-  <img width="49%" height="195" src="https://streak-stats.demolab.com/?user=tfkcodes&" alt="tfkcodes" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tfkcodes&theme=github_dark" alt="Top stack" />
+  <img height="195" src="https://streak-stats.demolab.com/?user=tfkcodes&theme=github_dark" alt="tfkcodes" />
 </p>
