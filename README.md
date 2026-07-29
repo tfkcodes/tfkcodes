@@ -122,11 +122,8 @@ CLI tool to speed up Flutter project development.<br/><br/>
   <i>"Building with <b>passion</b>, shipping with <b>purpose</b>."</i>
 </p>
 
-<<<<<<< HEAD
 <p align="center">
   <sub>Open to collaboration on impactful ideas — <a href="mailto:hello@tfkcodes.dev">let's talk</a>.</sub>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213D,100:0B0F19&height=100&section=footer" width="100%"/>
-=======
->>>>>>> a20bacb757922a575802457ec2181802dbe21c23
